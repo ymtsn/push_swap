@@ -1,0 +1,14 @@
+.vscode/
+obj/
+a.out
+*.o
+*.d
+*.a
+push_swap
+*.dSYM/
+checker
+org_checker
+push_swap_tester/
+push_swap_visualizer/
+checker/
+checker_Mac
